@@ -13,3 +13,5 @@ You can also filter out rides based on State and City.
 
 To install dependency run `npm install`
 To run project run `npm run dev`. This will start server in local host.
+
+Live Project Link :- https://edvore-app.vercel.app/
